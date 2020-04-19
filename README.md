@@ -1,0 +1,2 @@
+# SilenceBot
+SilenceBot for discord
